@@ -48,7 +48,6 @@ An educationnal platform for my 2cp project with course publishing , offline mod
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdousa23&show_icons=true&hide_border=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdousa23&layout=compact&theme=radical)
 
 ---
 
