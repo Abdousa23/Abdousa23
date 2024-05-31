@@ -41,7 +41,7 @@ A social media application with real-time chat, notifications, and user authenti
 ### [Project 3: Edu+ platform project](https://github.com/Abdousa23/Edu-plus)
 An educationnal platform for my 2cp project with course publishing , offline mode , download courses option , payment method , built with next.js and express.js.
 
-![Project Management Tool](https://github.com/Abdousa23/Edu-plus/blob/main/screenshot.png)
+![Edu + ](https://github.com/Abdousa23/Edu-plus/blob/main/screenshot.png)
 
 **Technologies:** MongoDB, Express.js, React.js, Node.js, cloudinary, PWA 
 
