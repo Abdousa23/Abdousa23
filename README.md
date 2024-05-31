@@ -64,8 +64,6 @@ I'm always excited to work on new projects and contribute to open-source. Feel f
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
 ![Material-UI](https://img.shields.io/badge/-Material--UI-black?style=flat-square&logo=material-ui)
 ![PWA](https://img.shields.io/badge/-PWA-black?style=flat-square&logo=pwa)
