@@ -1,6 +1,5 @@
 # Hi there, I'm Abderrahemane 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/Abdousa23?label=Follow&style=social)](https://github.com/Abdousa23)
 
 ## About Me
 
