@@ -9,7 +9,7 @@ I'm a passionate Fullstack Developer with extensive experience in building dynam
 ## 🔧 Technologies & Tools
 
 ### Frontend
-- **Languages:** JavaScript (ES6+), HTML5, CSS3
+- **Languages:** JavaScript (ES6+),TypeScript, HTML5, CSS3
 - **Frameworks/Libraries:** React.js, Next.js
 - **Styling:** Tailwind CSS, Material-UI
 
@@ -56,6 +56,8 @@ I'm always excited to work on new projects and contribute to open-source. Feel f
 ## 🛠️ Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
@@ -66,5 +68,6 @@ I'm always excited to work on new projects and contribute to open-source. Feel f
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
 ![Material-UI](https://img.shields.io/badge/-Material--UI-black?style=flat-square&logo=material-ui)
+[PWA](https://img.shields.io/badge/-PWA-black?style=flat-square&logo=pwa)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
