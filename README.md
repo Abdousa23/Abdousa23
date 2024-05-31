@@ -68,6 +68,6 @@ I'm always excited to work on new projects and contribute to open-source. Feel f
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
 ![Material-UI](https://img.shields.io/badge/-Material--UI-black?style=flat-square&logo=material-ui)
-[PWA](https://img.shields.io/badge/-PWA-black?style=flat-square&logo=pwa)
+![PWA](https://img.shields.io/badge/-PWA-black?style=flat-square&logo=pwa)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
