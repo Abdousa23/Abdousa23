@@ -11,7 +11,7 @@ I'm a passionate Fullstack Developer with extensive experience in building dynam
 ### Frontend
 - **Languages:** JavaScript (ES6+), HTML5, CSS3
 - **Frameworks/Libraries:** React.js, Next.js
-- **Styling:** Tailwind CSS, SASS, Material-UI
+- **Styling:** Tailwind CSS, Material-UI
 
 ### Backend
 - **Languages:** JavaScript (Node.js)
@@ -21,9 +21,6 @@ I'm a passionate Fullstack Developer with extensive experience in building dynam
 
 ### Tools & Platforms
 - **Version Control:** Git, GitHub
-- **Deployment:** Docker, AWS, Heroku
-- **Testing:** Jest, Mocha, Chai
-- **CI/CD:** GitHub Actions, Jenkins
 
 ## 🚀 Projects
 
@@ -41,25 +38,16 @@ A social media application with real-time chat, notifications, and user authenti
 
 **Technologies:** MongoDB, Express.js, React.js, Node.js, Socket.io, Material-UI
 
-### [Project 3: Project Management Tool](https://github.com/your-github-username/project-3)
-A project management tool with task tracking, user roles, and collaboration features, built with React.js and Node.js.
+### [Project 3: Edu+ platform project](https://github.com/Abdousa23/Edu-plus)
+An educationnal platform for my 2cp project with course publishing , offline mode , download courses option , payment method , built with next.js and express.js.
 
-![Project Management Tool](https://github.com/your-github-username/project-3/blob/main/screenshot.png)
+![Project Management Tool](https://github.com/Abdousa23/Edu-plus/blob/main/screenshot.png)
 
-**Technologies:** MongoDB, Express.js, React.js, Node.js, SASS
+**Technologies:** MongoDB, Express.js, React.js, Node.js, cloudinary, PWA 
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true&theme=radical)
-
-
-## 💼 Work Experience
-
-- **Company Name:** Position | [Month Year] - [Month Year]
-  - Description of your responsibilities and achievements.
-  
-- **Company Name:** Position | [Month Year] - [Month Year]
-  - Description of your responsibilities and achievements.
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdousa23&show_icons=true&hide_border=true&theme=radical)
 
 ---
 
