@@ -20,10 +20,9 @@ I'm a passionate Fullstack Developer with extensive experience in building dynam
 
 ### Tools & Platforms
 - **Version Control:** Git, GitHub
-
+<!-- 
 ## 🚀 Projects
 
-<!-- Project 1: E-commerce Platform 
 ### [Project 1: E-commerce Platform](https://github.com/your-github-username/project-1)
 A scalable e-commerce platform built with MERN stack and Next.js, featuring real-time notifications with Socket.io.
 
