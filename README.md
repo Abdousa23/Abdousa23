@@ -44,13 +44,13 @@ An educational platform for my 2cp project with course publishing, offline mode,
 
 **Technologies:** MongoDB, Express.js, React.js, Node.js, Cloudinary, PWA
 
--->
+
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdousa23&show_icons=true&hide_border=true&theme=radical)
 
 ---
-
+-->
 I'm always excited to work on new projects and contribute to open-source. Feel free to reach out for collaboration or just to say hi! 😄
 
 ## 🛠️ Technologies & Tools
