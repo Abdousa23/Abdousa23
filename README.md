@@ -23,7 +23,7 @@ I'm a passionate Fullstack Developer with extensive experience in building dynam
 
 ## 🚀 Projects
 
-<!-- Project 1: E-commerce Platform -->
+<!-- Project 1: E-commerce Platform 
 ### [Project 1: E-commerce Platform](https://github.com/your-github-username/project-1)
 A scalable e-commerce platform built with MERN stack and Next.js, featuring real-time notifications with Socket.io.
 
@@ -31,7 +31,6 @@ A scalable e-commerce platform built with MERN stack and Next.js, featuring real
 
 **Technologies:** MongoDB, Express.js, React.js, Node.js, Socket.io, Tailwind CSS
 
-<!-- Project 2: Social Media App -->
 ### [Project 2: Social Media App](https://github.com/your-github-username/project-2)
 A social media application with real-time chat, notifications, and user authentication using JWT.
 
@@ -39,7 +38,6 @@ A social media application with real-time chat, notifications, and user authenti
 
 **Technologies:** MongoDB, Express.js, React.js, Node.js, Socket.io, Material-UI
 
-<!-- Project 3: Edu+ platform project -->
 ### [Project 3: Edu+ platform project](https://github.com/Abdousa23/Edu-plus)
 An educational platform for my 2cp project with course publishing, offline mode, download courses option, payment method, built with Next.js and Express.js.
 
@@ -47,7 +45,7 @@ An educational platform for my 2cp project with course publishing, offline mode,
 
 **Technologies:** MongoDB, Express.js, React.js, Node.js, Cloudinary, PWA
 
-
+-->
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdousa23&show_icons=true&hide_border=true&theme=radical)
