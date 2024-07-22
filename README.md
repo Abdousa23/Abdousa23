@@ -14,9 +14,9 @@ I'm a passionate Fullstack Developer with extensive experience in building dynam
 
 ### Backend
 - **Languages:** JavaScript (Node.js)
-- **Frameworks:** Express.js
+- **Frameworks:** Express.js, NestJS 
 - **Real-time:** Socket.io
-- **Databases:** MongoDB, Mongoose
+- **Databases:** MongoDB, Mongoose,Postgres
 
 ### Tools & Platforms
 - **Version Control:** Git, GitHub
@@ -71,3 +71,5 @@ I'm always excited to work on new projects and contribute to open-source. Feel f
 ![PWA](https://img.shields.io/badge/-PWA-black?style=flat-square&logo=pwa)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![NestJS](https://img.shields.io/badge/-nestjs-red?style=flat-square&logo=nestjs)
+![Postgres](https://img.shields.io/badge/-postgres-blue?style=flat-square&logo=postgresql)
