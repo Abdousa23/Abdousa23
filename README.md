@@ -4,7 +4,7 @@
 ## About Me
 
 I'm a passionate Fullstack Developer with extensive experience in building dynamic, high-performance web applications. My expertise lies in both frontend and backend development, utilizing the latest technologies and best practices to deliver scalable and efficient solutions.
-
+<!--
 ## 🔧 Technologies & Tools
 
 ### Frontend
@@ -51,6 +51,18 @@ An educational platform for my 2cp project with course publishing, offline mode,
 
 ---
 -->
+
+💻I’m currently working on a fullstack web application
+
+🚀 I’m currently learning graphQL
+
+📚 All of my projects are available at [My Portfolio](https://saabderrahemaneportfolio.vercel.app/)
+
+
+## Connect with me:
+- **GitHub**: [abdousa23](https://github.com/Abdousa23)
+- **LinkedIn**: [abderrahemane sahki](https://www.linkedin.com/in/abderrahemane-sahki-a71a6224b/)
+- **Email**:[abderrahemane sahki](a_sahki@estin.dz)
 I'm always excited to work on new projects and contribute to open-source. Feel free to reach out for collaboration or just to say hi! 😄
 
 ## 🛠️ Technologies & Tools
