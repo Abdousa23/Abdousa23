@@ -60,9 +60,11 @@ An educational platform for my 2cp project with course publishing, offline mode,
 
 
 ## Connect with me:
-- **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Abdousa23)
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahemane-sahki-a71a6224b/)
-- **Email**: [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:a_sahki@estin.dz)
+ [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Abdousa23)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahemane-sahki-a71a6224b/)
+ [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:a_sahki@estin.dz)
+
+ 
 I'm always excited to work on new projects and contribute to open-source. Feel free to reach out for collaboration or just to say hi! 😄
 
 ## 🛠️ Technologies & Tools
