@@ -58,6 +58,13 @@ An educational platform for my 2cp project with course publishing, offline mode,
 
 📚 All of my projects are available at [My Portfolio](https://saabderrahemaneportfolio.vercel.app/)
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+## GitHub Streak Stats
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
 
 ## Connect with me:
  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Abdousa23)
