@@ -1,7 +1,7 @@
 # Hi there, I'm Abderrahemane 👋
 
 I'm a passionate Fullstack Developer interested in building dynamic, high-performance web applications. I am  an AI and data science enthusiast aiming to improve and develop myself 
-
+<!--
 ## 🔧 Technologies & Tools
 
 ### Frontend
