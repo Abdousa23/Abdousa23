@@ -3,8 +3,8 @@
 
 ## About Me
 
-I'm a passionate Fullstack Developer with extensive experience in building dynamic, high-performance web applications. My expertise lies in both frontend and backend development, utilizing the latest technologies and best practices to deliver scalable and efficient solutions.
-<!--
+I'm a passionate Fullstack Developer interested in building dynamic, high-performance web applications. I am  an AI and data science enthusiast aiming to improve and develop myself 
+
 ## 🔧 Technologies & Tools
 
 ### Frontend
