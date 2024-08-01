@@ -52,16 +52,18 @@ An educational platform for my 2cp project with course publishing, offline mode,
 ---
 -->
 
-💻I’m currently working on a fullstack web application
+🚀 I’m currently learning Flutter
 
-🚀 I’m currently learning graphQL
+💻 I’m currently working on a fullstack web application using NestJS and GraphQL
 
 📚 All of my projects are available at [My Portfolio](https://saabderrahemaneportfolio.vercel.app/)
 
+💬 Ask me about web development
+
 ## GitHub Stats
-
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdousa23&show_icons=true&theme=radical)
-
+-->
 ## GitHub Streak Stats
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Abdousa23&theme=radical)
