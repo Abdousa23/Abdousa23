@@ -93,5 +93,4 @@ I'm always excited to work on new projects and contribute to open-source. Feel f
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![NestJS](https://img.shields.io/badge/-nestjs-red?style=flat-square&logo=nestjs)
 ![Postgres](https://img.shields.io/badge/-postgres-black?style=flat-square&logo=postgresql)
-
 ![GraphQL](https://img.shields.io/badge/-graphql-black?style=flat-square&logo=graphql)
