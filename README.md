@@ -79,6 +79,9 @@ I'm always excited to work on new projects and contribute to open-source. Feel f
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+
+![React](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=electron)
+
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
@@ -94,3 +97,4 @@ I'm always excited to work on new projects and contribute to open-source. Feel f
 ![NestJS](https://img.shields.io/badge/-nestjs-red?style=flat-square&logo=nestjs)
 ![Postgres](https://img.shields.io/badge/-postgres-black?style=flat-square&logo=postgresql)
 ![GraphQL](https://img.shields.io/badge/-graphql-black?style=flat-square&logo=graphql)
+![Flutter]((https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter))
