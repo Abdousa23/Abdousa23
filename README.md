@@ -93,7 +93,7 @@ I'm always excited to work on new projects and contribute to open-source. Feel f
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![NestJS](https://img.shields.io/badge/-nestjs-red?style=flat-square&logo=nestjs)
-![Fastapi](https://img.shields.io/badge/-fastapi-transparent?style=flat-square&logo=fastapi)
+![Fastapi](https://img.shields.io/badge/-fastapi-black?style=flat-square&logo=fastapi)
 ![Postgres](https://img.shields.io/badge/-postgres-black?style=flat-square&logo=postgresql)
 ![GraphQL](https://img.shields.io/badge/-graphql-black?style=flat-square&logo=graphql)
 ![Flutter](https://img.shields.io/badge/-flutter-blue?style=flat-square&logo=flutter)
